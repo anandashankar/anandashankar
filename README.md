@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandashankar
-- 👀 I’m interested in Digital Twins!
+- 👀 I’m interested in IoT, CI/CD, virtualization and Digital Twins
 - 🌱 I’m currently learning System Integration  
 - 💞️ I’m looking to collaborate on cloud integration of advanced simulation 
 - 📫 How to reach me anandaschakraborti@gmail.com
