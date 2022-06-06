@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ananda. I work as an IoT Designer (4+ years experience) and currently located in Helsinki. 
+- 👋 Hi, I’m Ananda. I work as an IoT Designer (5+ years experience) and currently located in Helsinki. 
 - 👀 I’m interested in IoT, virtualization, Intelligent Automation and AI/ML related projects
 - 🌱 I’m currently learning virtualization, container orchestration with Kubernetes and scripting for IoT device integration    
 - 💞️ I’m looking to collaborate on IoT, cloud integration, edge computing and AI/ML related projects
